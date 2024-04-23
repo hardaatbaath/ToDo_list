@@ -7,8 +7,18 @@
  ```
  cd server && node index.js
  ```
- 
+
  Run the following commands in one terminal to start the client:
  ```
  cd client && npm start
  ```
+
+ # Ports Used
+
+The following ports are used in the project
+
+Port Number|Description
+---|---
+8000| Server
+3000| Client
+5432| PostgreSQL 
