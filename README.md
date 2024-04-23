@@ -4,12 +4,12 @@
  # To run
 
  Run the following commands in one terminal to start the server:
- ```
+ ```bash
  cd server && node index.js
  ```
 
  Run the following commands in one terminal to start the client:
- ```
+ ```bash
  cd client && npm start
  ```
 
